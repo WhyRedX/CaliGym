@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/caligymwebsite/static/css/main.f24954e7.chunk.css",
+    "main.js": "/caligymwebsite/static/js/main.b286ca28.chunk.js",
+    "main.js.map": "/caligymwebsite/static/js/main.b286ca28.chunk.js.map",
+    "runtime-main.js": "/caligymwebsite/static/js/runtime-main.d4a40bd0.js",
+    "runtime-main.js.map": "/caligymwebsite/static/js/runtime-main.d4a40bd0.js.map",
+    "static/js/2.afd1af17.chunk.js": "/caligymwebsite/static/js/2.afd1af17.chunk.js",
+    "static/js/2.afd1af17.chunk.js.map": "/caligymwebsite/static/js/2.afd1af17.chunk.js.map",
+    "index.html": "/caligymwebsite/index.html",
+    "static/css/main.f24954e7.chunk.css.map": "/caligymwebsite/static/css/main.f24954e7.chunk.css.map",
+    "static/js/2.afd1af17.chunk.js.LICENSE.txt": "/caligymwebsite/static/js/2.afd1af17.chunk.js.LICENSE.txt",
+    "static/media/1.cdb24d16.png": "/caligymwebsite/static/media/1.cdb24d16.png",
+    "static/media/3.be5f9445.png": "/caligymwebsite/static/media/3.be5f9445.png",
+    "static/media/about.595de122.png": "/caligymwebsite/static/media/about.595de122.png",
+    "static/media/abouthead.8c835961.png": "/caligymwebsite/static/media/abouthead.8c835961.png",
+    "static/media/index.css": "/caligymwebsite/static/media/parallax.67b7c7d2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4a40bd0.js",
+    "static/js/2.afd1af17.chunk.js",
+    "static/css/main.f24954e7.chunk.css",
+    "static/js/main.b286ca28.chunk.js"
+  ]
+}
